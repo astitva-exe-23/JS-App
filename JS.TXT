@@ -1,0 +1,26 @@
+document.getElementById("document object of html which is to be modified") 
+
+
+DOM
+
+Document object Model ( how JS is used to model a website)
+
+Document -> object datatype in js (Html document is datatype object)
+
+Real html -> DOM object in JS
+
+
+
+STRINGS IN JS
+just like any other language
+" "
+'' 
+Concatenation -> using + " " 
+*String>Number*
+
+
+INNERTEXT -> TOUGH TO DECODE CERTAIN 
+
+
+TEXT CONTENT
+
